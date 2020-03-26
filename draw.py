@@ -3,10 +3,12 @@ from matrix import *
 from gmath import *
 
 def add_polygon( polygons, x0, y0, z0, x1, y1, z1, x2, y2, z2 ):
-    pass
+    add_edge(polygons,x0,y0,z0,x1,y1,z1)
+    add_edge(polygons,x1,y1,z1,x2,y2,z2)
+    add_edge(polygons,x2,y2,z2,x0,y0,z0)
 
 def draw_polygons( polygons, screen, color ):
-    pass
+    draw_lines(polygons,screen,color)
 
 
 def add_box( polygons, x, y, z, width, height, depth ):
@@ -15,22 +17,25 @@ def add_box( polygons, x, y, z, width, height, depth ):
     z1 = z - depth
 
     #front
-    add_edge(polygons, x, y, z, x1, y, z)
-    add_edge(polygons, x, y1, z, x1, y1, z)
-    add_edge(polygons, x1, y, z, x1, y1, z)
-    add_edge(polygons, x, y, z, x, y1, z)
+    add_polygon(polygons,x,y,z,x,y1,z,x1,y,z)
+    add_polygon(polygons,x,y1,z,x1,y1,z,x1,y,z)
 
     #back
-    add_edge(polygons, x, y, z1, x1, y, z1)
-    add_edge(polygons, x, y1, z1, x1, y1, z1)
-    add_edge(polygons, x1, y, z1, x1, y1, z1)
-    add_edge(polygons, x, y, z1, x, y1, z1)
+    add_polygon(polygons,x,y,z1,x,y1,z1,x1,y,z1)
+    add_polygon(polygons,x,y1,z1,x1,y1,z1,x1,y,z1)
 
-    #sides
-    add_edge(polygons, x, y, z, x, y, z1)
-    add_edge(polygons, x1, y, z, x1, y, z1)
-    add_edge(polygons, x, y1, z, x, y1, z1)
-    add_edge(polygons, x1, y1, z, x1, y1, z1)
+    #left+Right sides
+    add_polygon(polygons, x, y1, z, x, y, z,x,y,z1)
+    add_polygon(polygons, x, y1, z1, x, y1, z,x,y1,z1)
+    add_polygon(polygons, x1, y1, z, x1, y, z,x1,y,z1)
+    add_polygon(polygons, x1, y1, z1, x1, y1, z,x1,y1,z1)
+
+    #Top+Bottom sides
+    add_polygon(polygons,x1,y,z,x1,y,z1,x,y,z1)
+    add_polygon(polygons,x,y,z,x1,y,z,x,y,z1)
+    add_polygon(polygons,x1,y1,z,x1,y1,z1,x,y1,z1)
+    add_polygon(polygons,x,y1,z,x1,y1,z,x,y1,z1)
+
 
 def add_sphere(polygons, cx, cy, cz, r, steps ):
     points = generate_sphere(cx, cy, cz, r, steps)
@@ -53,8 +58,8 @@ def add_sphere(polygons, cx, cy, cz, r, steps ):
                      points[index][2]+1 )
 
 def generate_sphere( cx, cy, cz, r, steps ):
-    points = []
-
+    pre_semi = [0 in range(steps+1)]
+    after_semi = [0 in range(steps+1)]
     rot_start = 0
     rot_stop = steps
     circ_start = 0
@@ -157,16 +162,16 @@ def draw_lines( matrix, screen, color ):
                    int(matrix[point][1]),
                    int(matrix[point+1][0]),
                    int(matrix[point+1][1]),
-                   screen, color)    
+                   screen, color)
         point+= 2
-        
+
 def add_edge( matrix, x0, y0, z0, x1, y1, z1 ):
     add_point(matrix, x0, y0, z0)
     add_point(matrix, x1, y1, z1)
-    
+
 def add_point( matrix, x, y, z=0 ):
     matrix.append( [x, y, z, 1] )
-    
+
 
 
 
@@ -190,7 +195,7 @@ def draw_line( x0, y0, x1, y1, screen, color ):
     if ( abs(x1-x0) >= abs(y1 - y0) ):
 
         #octant 1
-        if A > 0:            
+        if A > 0:
             d = A + B/2
 
             while x < x1:

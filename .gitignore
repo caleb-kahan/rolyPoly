@@ -11,6 +11,8 @@
 # Prerequisites
 *.d
 
+*.ftpconfig
+
 # Object files
 *.o
 *.ko
