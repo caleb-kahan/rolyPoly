@@ -5,9 +5,9 @@ from matrix import *
 import math
 
 screen = new_screen()
-color = [ 0, 255, 0 ]
+color = [ 135, 206, 250 ]
 edges = []
 polygons = []
 transform = new_matrix()
 
-parse_file( 'script', edges, polygons, transform, screen, color )
+parse_file( 'dw_script', edges, polygons, transform, screen, color )
