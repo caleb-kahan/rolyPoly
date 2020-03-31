@@ -1,0 +1,1104 @@
+ident
+clear
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 150 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic0.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 149.99 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic1.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 149.95000000000002 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic2.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 149.86 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic3.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 149.70000000000002 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic4.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 149.45000000000002 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic5.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 149.09 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic6.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 148.6 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic7.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 147.96 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic8.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 147.15 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic9.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 146.15 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic10.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 144.94 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic11.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 143.5 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic12.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 141.81 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic13.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 139.85 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic14.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 137.6 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic15.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 135.04 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic16.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 132.15 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic17.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 128.91 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic18.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 125.3 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic19.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 121.3 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic20.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 116.89 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic21.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 112.05 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic22.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 106.75999999999999 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic23.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 100.99999999999999 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic24.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 94.74999999999999 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic25.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 87.98999999999998 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic26.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 80.69999999999997 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic27.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 72.85999999999997 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic28.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 64.44999999999997 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic29.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 55.449999999999974 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic30.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 45.839999999999975 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic31.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 35.59999999999997 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic32.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 24.709999999999972 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic33.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 13.149999999999972 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic34.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 0.8999999999999719 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic35.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -12.060000000000029 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic36.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -25.75000000000003 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic37.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -40.190000000000026 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic38.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -55.40000000000003 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic39.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -71.40000000000003 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic40.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -88.21000000000004 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic41.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -105.85000000000004 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic42.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -124.34000000000003 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic43.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -143.70000000000005 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic44.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -163.95000000000005 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic45.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -185.11000000000004 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic46.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -207.20000000000005 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic47.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -230.24000000000004 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic48.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -254.25000000000003 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic49.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -279.25 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic50.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -305.26 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic51.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -332.3 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic52.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -360.39 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic53.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -389.55 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic54.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -419.8 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic55.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -451.16 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic56.png
+ident
+clear
+torus
+-30 -335 0 25 75
+torus
+-30 -235 0 25 75
+torus
+-30 -135 0 25 75
+torus
+-30 -35 0 25 75
+sphere
+-30 -483.65000000000003 0 20
+rotate
+    x 30
+    move
+    250 400 0
+    apply
+    save
+    pic57.png
